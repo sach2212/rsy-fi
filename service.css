@@ -789,6 +789,7 @@ padding: 1rem;
                 flex-wrap: wrap;
                 /* flex-direction: row; */
                /* margin: auto; */
+             justify-content: center;
             }
 
 
